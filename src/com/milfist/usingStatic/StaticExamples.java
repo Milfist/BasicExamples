@@ -1,4 +1,4 @@
-package com.milfist.example;
+package com.milfist.usingStatic;
 
 /**
  * Examples of using static. Attributes, methods and classes.

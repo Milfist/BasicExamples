@@ -1,4 +1,4 @@
-package com.milfist.example;
+package com.milfist.usingStatic;
 
 public class Area {
 	

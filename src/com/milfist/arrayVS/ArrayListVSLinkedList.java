@@ -1,4 +1,4 @@
-package mik;
+package com.milfist.arrayVS;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
